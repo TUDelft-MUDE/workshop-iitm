@@ -17,6 +17,8 @@ _Workshop participants should view this page as a_ **Student**{: .label .label-g
 
 *This page shows the most recent announcement. Frequently used pages are found via the links at the top right.*
 
+Demonstration edit. Something.
+
 *See [Course Info page]({{ site.baseurl }}/info) for additional information.*
 
 ### Most recent announcement
